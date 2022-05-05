@@ -1,0 +1,12 @@
+[
+  {
+    "id": 3,
+    "nombre": "Lucas",
+    "apellido": "Gramaglia",
+    "email": "lucas@mail.com",
+    "edad": 32,
+    "altura": 192,
+    "activo": false,
+    "fecha_de_creacion": "2022-03-01"
+  }
+]  
